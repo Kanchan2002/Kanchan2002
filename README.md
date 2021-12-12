@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kanchan Tripathi
--  A 19Y/O Frontend Developer (backend ongoing) from India.
+- 👧A 19Y/O Frontend Developer (backend ongoing) from India.
 - 🌱 I’m currently learning Web Development(Frontend and backend)
 - 📫 How to reach me Kanchantripathi2001@gmail.com.
-
+- 🎭 learn something new everyday.
 
 <!---
 Kanchan2002/Kanchan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
