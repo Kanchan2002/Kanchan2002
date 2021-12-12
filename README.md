@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development(Frontend and backend)
 - 📫 How to reach me Kanchantripathi2001@gmail.com.
 - 🎭 learn something new everyday.
+- 👻 fun fact: I love to play chess and sing a song.
 
 <!---
 Kanchan2002/Kanchan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
